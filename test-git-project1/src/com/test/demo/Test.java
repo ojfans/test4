@@ -8,4 +8,8 @@ public class Test {
         System.out.println("77777777777777777777");
         System.out.println("88888888888888888888");
     }
+
+    public void test(){
+        System.out.println("修改");
+    }
 }
